@@ -3,7 +3,7 @@
 <p align="center"><img src="https://aigeekprogrammer.com/wp-content/uploads/2021/06/YOLO.jpg" alt="project-image"></p>
 
 ## Introduction
-<p id="description">I intend to build a real-time object classification system using YOLO (You Only Look Once) a cutting-edge object detection and classification technique. The project will involve the development of a robust and efficient system capable of identifying and classifying objects in real-time pictures and video streams making it appropriate for a wide range of applications such as surveillance autonomous cars and others. It can be used to classify objects in Images, Videos and Webcam.  </p>
+<p id="description">I intend to build a real-time object classification system using YOLO (You Only Look Once) a cutting-edge object detection and classification technique. The project will involve the development of a robust and efficient system capable of identifying and classifying objects in real-time pictures and video streams making it appropriate for a wide range of applications such as surveillance autonomous cars and others. It can be used to classify objects in Images, Videos and Webcam</p>
 
 ## Requirements
 The Entire project is worked in the pycharm environment. Before using this project, ensure that you have the following dependencies installed:
