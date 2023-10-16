@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Object Classification using Yolo V8 Algorithm</h1>
+<h1 align="center" id="title">Object Detection/ Classification using Yolo V8 Algorithm</h1>
 
 <p align="center"><img src="https://aigeekprogrammer.com/wp-content/uploads/2021/06/YOLO.jpg" alt="project-image"></p>
 
