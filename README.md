@@ -1,5 +1,9 @@
 <h1 align="center" id="title">Face Detection, Object Detection/ Classification using Yolo V8 Algorithm</h1>
 
+## Output
+
+![Screenshot (7)](https://github.com/dineshrx/Face-Recognition-Object-Detection-Classification-using-Yolo-V8-Algorithm/assets/144202549/2660ecb5-ec0f-4ee3-bd8e-ef1d5b5b48bb)
+
 ![Image Alt Text](https://github.com/dineshrx/Face-Recognition-Object-Detection-Classification-using-Yolo-V8-Algorithm/blob/main/1.jpg?raw=true) <br>
 
 
